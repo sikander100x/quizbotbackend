@@ -1,0 +1,13 @@
+{
+  "name": "telegram-firebase-bot",
+  "version": "1.0.0",
+  "description": "Admin bot for QuickQuizWin using Telegram and Firebase",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^11.10.1",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
